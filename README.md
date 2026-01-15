@@ -42,28 +42,6 @@ Install turtlesim:
 sudo apt install ros-humble-turtlesim
 
 
-Folder structure - ros2-crescent-moon/
-│
-├── README.md
-├── LICENSE
-├── .gitignore
-│
-├── crescent_moon_pkg/
-│   ├── package.xml
-│   ├── setup.py
-│   ├── setup.cfg
-│   ├── resource/
-│   │   └── crescent_moon_pkg
-│   │
-│   ├── crescent_moon_pkg/
-│   │   ├── __init__.py
-│   │   └── crescent_moon_node.py   
-│   │
-│   └── test/
-│
-└── media/
-    ├── banner.png
-    └── crescent_moon_demo.gif
 
 
 
